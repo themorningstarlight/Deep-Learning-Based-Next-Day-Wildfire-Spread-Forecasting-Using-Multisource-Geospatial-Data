@@ -13,7 +13,7 @@
 ---
 
 ## Overview
-This project applies deep learning-based image segmentation to predict next-day wildfire spread using the [Next Day Wildfire Spread (NDWS)](https://arxiv.org/abs/2112.02447) dataset. Three encoder-decoder architectures were trained and compared on 20,097 geospatial samples with 12 multisource input features.
+This project applies deep learning-based image segmentation to predict next-day wildfire spread using the Next Day Wildfire Spread (NDWS) dataset. Three encoder-decoder architectures were trained and compared on 20,097 geospatial samples with 12 multisource input features.
 
 ---
 
@@ -29,7 +29,7 @@ This project applies deep learning-based image segmentation to predict next-day 
 ---
 
 ## Dataset
-- **Source:** [NDWS Dataset](https://arxiv.org/abs/2112.02447) (Huot et al., 2022)
+- **Name:** Next Day Wildfire Spread (NDWS)
 - **Format:** TFRecord (54 files)
 - **Samples:** 9,600 train / 4,301 val / 6,196 test
 - **Input:** 64×64 grid, 12 geospatial feature channels
