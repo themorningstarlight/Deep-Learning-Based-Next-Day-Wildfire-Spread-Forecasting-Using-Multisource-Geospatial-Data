@@ -1,0 +1,13 @@
+# Data files (too large for GitHub)
+*.tfrecord
+*.keras
+*.h5
+
+# Colab checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Output files
+*.png
+*.csv
